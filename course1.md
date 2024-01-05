@@ -14,16 +14,14 @@ InternLM 千亿级参数规模LLM发布(2023.6) $\rightarrow$ InternLM 升级，
 (8月好忙)
 
 ### 4.InternLM不同版本对比：
-$\left\{
-\begin{aligned}
+$
 &  7B:参数规模小;1000B tokens训练;8K上下文;支持工具调用；\\
 & ---社区可用最低成本规模模型\\
 & 20B:支持工具调用；降低了推理计算量但提高了推理能力；4K上下文，推理时可外推到16K\\
 & ---商业场景可开发定制高精度较小模型规模;\\
 & 123B:参数量大，模型强大；推理能力强；精准API调用；构建Agent能力强；\\
 & ---通用大语言模型能力全面覆盖千亿模型规模
-\end{aligned}
-\right.$
+$
 
 ### 5.模型到应用：
 ![image](https://github.com/hzsun1995/internlm-course/assets/136775620/1aac2a92-4967-49fe-b65a-28682a97f43d)
