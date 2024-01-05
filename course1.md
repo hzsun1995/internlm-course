@@ -11,8 +11,7 @@ GPT-1(2018.6) $\rightarrow$ GPT-2(2019.2) $\rightarrow$ GPT-3(2020.5) $\rightarr
 ### 3.浦语开发历程：
 InternLM 千亿级参数规模LLM发布(2023.6) $\rightarrow$ InternLM 升级，支持8K上下文、26种语言，同时发布7B版本模型和全链条开源工具(2023.7) $\rightarrow$ 书生万卷1.0发布(训练语料库)(2023.8) $\rightarrow$ InternLM-Chat-7B发布，开源Lagent(LLM2Agent)(2023.8) $\rightarrow$ InternLM升级至132B(2023.8) $\rightarrow$ InternLM-20B开源，升级开源工具链(2023.9)
 
-
-（8月好忙）
+(8月好忙)
 
 ### 4.InternLM不同版本对比：
 $\left\{
