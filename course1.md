@@ -24,7 +24,8 @@ $\left\{
 \right.$
 
 ### 5.模型到应用：
-![Alt text](image.png)
+![image](https://github.com/hzsun1995/internlm-course/assets/136775620/1aac2a92-4967-49fe-b65a-28682a97f43d)
+
 
 ### 6.LLM全链条开源框架体系：
 - 数据：书生·万卷，2TB数据，多模态数据；
