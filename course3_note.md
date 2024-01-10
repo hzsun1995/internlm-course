@@ -12,4 +12,4 @@ input + prompt -> 新的prompt -> LLM -> output
 ### 3.langchain 简介：
 LangChain通过为各种LLM提供通用接口来简化应用程序的开发流程，帮助开发者自由构建LLM应用。LangChain的核心组成模块:
 - 链(Chains):将组件组合实现端到端应用，通过一个对象封装实现一系列LLM操作；
-    Eg.<font color='pink'>检索问答链</font>，覆盖实现了RAG(检索增强生成)的全部流程；
+    Eg.检索问答链，覆盖实现了RAG(检索增强生成)的全部流程；
