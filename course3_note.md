@@ -1,6 +1,6 @@
 ### 1.RAG & finetune
-RAG：基于检索，占用上下文tokens多，可实时更新；(检索增强生成)
-finetune:基于微调，成本高，不能实时更新。
+- RAG：基于检索，占用上下文tokens多，可实时更新；(检索增强生成)
+- finetune:基于微调，成本高，不能实时更新。
 
 ### 2.RAG pipeline：
 ![image](https://github.com/hzsun1995/internlm-course/assets/136775620/9b7b1ec6-e2f3-411e-9dd5-daac7ecc1344)
