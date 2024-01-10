@@ -13,3 +13,14 @@ input + prompt -> 新的prompt -> LLM -> output
 LangChain通过为各种LLM提供通用接口来简化应用程序的开发流程，帮助开发者自由构建LLM应用。LangChain的核心组成模块:
 - 链(Chains):将组件组合实现端到端应用，通过一个对象封装实现一系列LLM操作；
     Eg.检索问答链，覆盖实现了RAG(检索增强生成)的全部流程；
+
+##### 3.1基于langchian搭建RAG应用：
+![image](https://github.com/hzsun1995/internlm-course/assets/136775620/72ea4142-eb99-4f0d-b902-e20e91bdf106)
+
+知识库：
+- unstructed loader:将不同文件都同一转化为纯文本格式；
+- text spliter:将纯文本分割成chunks；
+- sentence transformer:统一转化为向量格式，存储在Chroma的Vector DB中；
+
+用户输入：
+- 类似，看图即可；
