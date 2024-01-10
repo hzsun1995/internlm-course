@@ -1,4 +1,4 @@
-## 1.RAG & finetune
+### 1.RAG & finetune
 RAG：基于检索，占用上下文tokens多，可实时更新；(检索增强生成)
 finetune:基于微调，成本高，不能实时更新。
 
@@ -9,3 +9,7 @@ input -> 向量化input(sentence transformer) -> 与Vector DB数据匹配相似�
 
 input + prompt -> 新的prompt -> LLM -> output
 
+### 3.langchain 简介：
+LangChain通过为各种LLM提供通用接口来简化应用程序的开发流程，帮助开发者自由构建LLM应用。LangChain的核心组成模块:
+- 链(Chains):将组件组合实现端到端应用，通过一个对象封装实现一系列LLM操作；
+    Eg.检索问答链，覆盖实现了RAG(检索增强生成)的全部流程；
