@@ -53,3 +53,5 @@ LangChain 支持自定义LLM，可以直接接入到框架中；我们只需将 
 - 调用检索问答链，即可实现知识库助手的核心功能。
 ![image](https://github.com/hzsun1995/internlm-course/assets/136775620/016e489e-cc60-4ccf-97e4-728bab3c7e4d)
 
+##### 4.1 RAG的问题及部分解决方案：
+![image](https://github.com/hzsun1995/internlm-course/assets/136775620/86b48cc7-f940-423b-93b6-9989d7d13b62)
