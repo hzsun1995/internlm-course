@@ -42,3 +42,14 @@ LangChain通过为各种LLM提供通用接口来简化应用程序的开发流�
   - 可以使用任一—种Embedding模型来进行向量化
 
   - 可以使用多种支持语义检索的向量数据库，一般使用轻量级的Chroma
+
+### 4.构建助手：
+将InternLM 接入 LangChain
+LangChain 支持自定义LLM，可以直接接入到框架中；我们只需将 InternLM 部署在本地，并封装一个自定义 LLM类，调用本地 InternLM 即可；
+
+###### 构建检索问答链
+- LangChain提供了检索问答链模版，可以自动实现知识检索、Prompt嵌入、LLM问答的全部流程；
+- 将基于InternLM的自定义LLM和已构建的向量数据库接入到检索问答链的上游；
+- 调用检索问答链，即可实现知识库助手的核心功能。
+![image](https://github.com/hzsun1995/internlm-course/assets/136775620/016e489e-cc60-4ccf-97e4-728bab3c7e4d)
+
