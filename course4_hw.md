@@ -1,4 +1,4 @@
-![image](https://github.com/hzsun1995/internlm-course/assets/136775620/e6b74488-9ccb-4d94-bd45-2a796fa5b1a0)### xtuner微调llm
+### xtuner微调llm
 1. finetune
 2. XTuner介绍
 3. 8GB显卡玩转LLM
