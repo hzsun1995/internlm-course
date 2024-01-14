@@ -6,3 +6,7 @@
 
 ### 1.微调自己的数据集：
 ![image](https://github.com/hzsun1995/internlm-course/assets/136775620/8db8d59b-624f-4987-986b-16a0c403b6a3)
+
+### 2.进阶作业：
+- 将训练好的Adapter模型权重上传到 OpenXLab、Hugging Face 或者 MoelScope 任一一平台。
+- 将训练好后的模型应用部署到 OpenXLab 平台，参考部署文档请访问：https://aicarrier.feishu.cn/docx/MQH6dygcKolG37x0ekcc4oZhnCe
